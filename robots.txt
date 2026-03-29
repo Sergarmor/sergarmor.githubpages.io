@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sergarmor.github.io/sitemap.xml
+Sitemap: https://sergarmor.github.iosergarmor.githubpages.io/sitemap.xml
