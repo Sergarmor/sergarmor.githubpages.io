@@ -189,9 +189,9 @@ cv:
         date: 2024-12
         issuer: DeepLearning.AI and Stanford University through Coursera
         icon: fa-solid fa-envelope
-        summary: Three components: Supervised Machine Learning: Regression and Classification (33h), Advanced Learning Algorithms (34h) and Unsupervised Learning, Recommenders, Reinforcement Learning (27h)
+        summary: "Three components: Supervised Machine Learning: Regression and Classification (33h), Advanced Learning Algorithms (34h) and Unsupervised Learning, Recommenders, Reinforcement Learning (27h)"
 
-      - name: The Universe in our hands: The rise of the Space Sciences in Spain, 28h
+      - name: "The Universe in our hands: The rise of the Space Sciences in Spain, 28h"
         date: 2024-07
         issuer: Cursos de Verano Complutense de San Lorenzo de El Escorial
         icon: fa-solid fa-envelope
