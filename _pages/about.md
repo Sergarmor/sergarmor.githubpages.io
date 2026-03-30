@@ -6,7 +6,7 @@ subtitle: <a href='https://fisicas.ucm.es/'>Universidad Complutense de Madrid, F
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_8291.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Departamento de Física de la Tierra y Astrofísica</p>

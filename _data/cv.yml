@@ -120,7 +120,7 @@ cv:
         publisher: Astronomy and Astrophysics
         releaseDate: 2026-02-20
         url: https://www.aanda.org/articles/aa/abs/2026/02/aa55093-25/aa55093-25.html
-        summary: One of the key factors influencing galaxy clustering in the nonlinear regime is galaxy assembly bias, which describes the dependence of galaxy clustering on halo properties beyond halo mass. We studied this effect by analyzing galaxy samples selected according to stellar mass, luminosity, and broadband colors from the IllustrisTNG hydrodynamical simulation. We find that galaxy assembly bias depends strongly on the selection criteria, number density, and redshift of the galaxy sample; this effect increases or decreases galaxy clustering by as much as 25%. Interestingly, no single secondary halo property fully captures the strength of galaxy assembly bias for any galaxy population. Therefore, empirical models predicting galaxy assembly bias as a function of a single halo property cannot reproduce predictions from hydrodynamical simulations. Finally, we investigated how galaxy assembly bias arises from the interplay between halo assembly bias (the dependence of halo clustering on properties other than halo mass) and occupancy variation (the correlation between galaxy occupation and secondary halo properties). We provide a fast analytical expression to predict the level of galaxy assembly bias induced by any halo property in simulated galaxy catalogs without the need for computationally expensive shuffling techniques.
+        # summary: One of the key factors influencing galaxy clustering in the nonlinear regime is galaxy assembly bias, which describes the dependence of galaxy clustering on halo properties beyond halo mass. We studied this effect by analyzing galaxy samples selected according to stellar mass, luminosity, and broadband colors from the IllustrisTNG hydrodynamical simulation. We find that galaxy assembly bias depends strongly on the selection criteria, number density, and redshift of the galaxy sample; this effect increases or decreases galaxy clustering by as much as 25%. Interestingly, no single secondary halo property fully captures the strength of galaxy assembly bias for any galaxy population. Therefore, empirical models predicting galaxy assembly bias as a function of a single halo property cannot reproduce predictions from hydrodynamical simulations. Finally, we investigated how galaxy assembly bias arises from the interplay between halo assembly bias (the dependence of halo clustering on properties other than halo mass) and occupancy variation (the correlation between galaxy occupation and secondary halo properties). We provide a fast analytical expression to predict the level of galaxy assembly bias induced by any halo property in simulated galaxy catalogs without the need for computationally expensive shuffling techniques.
 
       # - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
       #   authors:
@@ -139,10 +139,21 @@ cv:
       #   summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
-        level: PhD
+      - name: Programming languages
         icon: fa-solid fa-hashtag
-        keywords: "Astrophysics, Galaxies:formation, Large-scale Structure of Universe, Cosmology"
+        keywords: "Python, R, Stan, MATLAB, LaTeX"
+
+      - name: Astronomical Software
+        icon: fa-solid fa-hashtag
+        keywords: "ds9, Aladin Sky Atlas, Topcat, Simbad, Vizier"
+
+      - name: Operating System propficiency
+        icon: fa-solid fa-laptop
+        keywords: "Fedora (Linux), macOS, Windows"
+
+      - name: Version control
+        icon: fa-solid fa-laptop
+        keywords: "Git, GitHub, GitLab"
 
     Languages:
       - name: Spanish
@@ -221,5 +232,5 @@ cv:
         reference: 
 
       - name: Professor Santi Roca
-        icon: fa-solid fa-thumbtack
+        icon: fa-solid fa-laptop
         reference: 
