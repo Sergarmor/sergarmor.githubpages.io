@@ -1,7 +1,7 @@
 cv:
   name: Sergio García-Moreno
   label: Astrophysicist
-  email: einstein@example.com
+  email: segarc19@ucm.es
   location: Madrid, Spain
   image: ""
   summary: Summary
@@ -31,10 +31,16 @@ cv:
         start_date: 2024
         end_date: 2028
         score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        courses: 
+          - "General Relativity and Gravitation"
+          - "Cosmology"
+          - "Extragalactic Astrophysics"
+          - "Observational Astronomy"
+          - "Stellar Astrophysics"
+          - "Statistics and Data Analysis"
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
       - institution: Universidad Complutense de Madrid
         location: Madrid, Spain
@@ -169,6 +175,9 @@ cv:
       - name: Physics
         icon: fa-solid fa-hashtag
         keywords: "Astrophysics, Galaxies:formation, Large-scale Structure of Universe, Cosmology"
+      - name: Reading
+        icon: fa-solid fa-books
+        keywords: "Science fiction, Fantasy, Historical novel"
 
     Certificates:
       - name: Application of Artificial Intelligence to Doctoral Thesis for Students, 4th Edition. 15h
