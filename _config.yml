@@ -209,6 +209,7 @@ exclude:
   - _pages/dropdown.md
   - _news/announcement_*.md
   - _pages/profiles.md
+  - _pages/projects.md
   - _pages/teaching.md
   - _posts/
   - assets/jupyter/blog.ipynb
